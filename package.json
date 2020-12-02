@@ -10,6 +10,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "4.0.1",
+    "typeface-roboto": "^1.1.13",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
